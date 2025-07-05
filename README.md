@@ -42,6 +42,6 @@ out/
 <br>
 
 
-![Step 1](one.png) 
+![Step 1](gitignore.png) 
 
 
